@@ -1,5 +1,7 @@
 package com.kramphub.rest.service;
 
+import java.io.UnsupportedEncodingException;
+import java.net.URLEncoder;
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.Iterator;
@@ -61,7 +63,11 @@ public class AlbumSearchService extends ProductSearchService{
 	public String buildUrlWithParams(String query) {
 		StringBuilder strBuild = new StringBuilder(this.serviceUrl);
 		strBuild.append("?term=");
-		strBuild.append(query);
+		try {
+			strBuild.append(URLEncoder.encode(query, "UTF-8"));
+		} catch (UnsupportedEncodingException e) {
+			logger.error("Error encoding query search param",e);
+		}
 		strBuild.append("&limit=");
 		strBuild.append(this.maxResults);
 		strBuild.append("&entity=album");

@@ -1,0 +1,1615 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 498,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "TzadBAAAQBAJ",
+   "etag": "Qlmq0RrLF9Y",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/TzadBAAAQBAJ",
+   "volumeInfo": {
+    "title": "Black Sabbath: Symptom of the Universe",
+    "authors": [
+     "Mick Wall"
+    ],
+    "publisher": "St. Martin's Press",
+    "publishedDate": "2015-04-14",
+    "description": "Decades before reality television was invented, Ozzy Osbourne was subversive and dark. Ozzy was the singer in the heavy metal band Black Sabbath, and they meant business. In an era when rock bands were measured by how 'heavy' they were, no one was weightier than Black Sabbath. All four founding members of the original Black Sabbath grew up within half-a-mile of each other in a tiny Birmingham suburb. Though all shared a deep love of music--The Beatles for Ozzy, the Mothers of Invention for Geezer, the Shadows and Chet Atkins for Iommi, and Gene Kruppa for Ward— they formed their group \"as the quickest way out of the slums.\" This is the story of how they made that dream come true--and how it then turned into a nightmare for all of them. At the height of their fame, Sabbath discovered they'd been so badly ripped off by their managers they didn't even own their own songs. They looked for salvation from Don Arden—an even more notorious gangster figure, who resurrected their career but still left them indebted to him, financially and personally. It finally came to a head when in 1979 they sacked Ozzy: \"For being too out of control--even for us,\" as Bill Ward put it. The next fifteen years were a war between the post-Ozzy Sabbath and Ozzy himself, whose solo career overshadowed Sabbath so much that a reunion was entirely on his terms. Or rather, those of his wife and manager—to add a further bitter twist for Sabbath, daughter of Don Arden —Sharon Osbourne.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781466869691"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1466869690"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 400,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.2.1.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=TzadBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=TzadBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.ar/books?id=TzadBAAAQBAJ&printsec=frontcover&dq=black+sabbath&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=TzadBAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-TzadBAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "AR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 169.97,
+     "currencyCode": "ARS"
+    },
+    "retailPrice": {
+     "amount": 118.98,
+     "currencyCode": "ARS"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=TzadBAAAQBAJ&rdid=book-TzadBAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.6997E8,
+       "currencyCode": "ARS"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.1898E8,
+       "currencyCode": "ARS"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "AR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.ar/books/download/Black_Sabbath_Symptom_of_the_Universe-sample-epub.acsm?id=TzadBAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=TzadBAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "&quot; This is the story of how they made that dream come true--and how it then turned into a nightmare for all of them."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Ek-yzX-jcU0C",
+   "etag": "TvZglhMK//I",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Ek-yzX-jcU0C",
+   "volumeInfo": {
+    "title": "Black Sabbath and Philosophy",
+    "subtitle": "Mastering Reality",
+    "authors": [
+     "William Irwin"
+    ],
+    "publisher": "John Wiley & Sons",
+    "publishedDate": "2012-09-18",
+    "description": "A philosophical look at heavy metal's dark masters of reality, Black Sabbath Black Sabbath is one of the world's most influential and enduring rock bands. Dubbed \"the Beatles of heavy metal\" by Rolling Stone, they helped to define a genre with classic songs like \"Paranoid\", \"Iron Man\", and \"War Pigs\", songs whose lyrics reveal hidden depth and philosophical insight. Their songs confront existential despair, social instability, political corruption, the horrors of war, and the nature of evil. This book explores the wide range of profound ideas in the band's music and lyrics to help you understand Black Sabbath as never before. Discusses and debates essential Black Sabbath topics and themes, such as the problem of evil, \"War Pigs\" and the nature of just war theory, whether or not Sabbath is still Sabbath without Ozzy, and whether \"evil is in the ear of the beholder\" Gives you new perspectives on Black Sabbath's music and lyrics Provides a deeper appreciation and understanding of Ozzy Osbourne, Tony Iommi, Geezer Butler, Bill Ward, and Ronnie James Dio Brings some of history's heaviest thinkers to bear on the band's music, from Aristotle and Nietzsche to Schopenhauer and Marx So . . . can you help me, occupy my brain? Yes! Start reading Black Sabbath and Philosophy.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781118397619"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1118397614"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "averageRating": 2.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Ek-yzX-jcU0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Ek-yzX-jcU0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.ar/books?id=Ek-yzX-jcU0C&printsec=frontcover&dq=black+sabbath&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=Ek-yzX-jcU0C&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-Ek-yzX-jcU0C"
+   },
+   "saleInfo": {
+    "country": "AR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 175.61,
+     "currencyCode": "ARS"
+    },
+    "retailPrice": {
+     "amount": 122.93,
+     "currencyCode": "ARS"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=Ek-yzX-jcU0C&rdid=book-Ek-yzX-jcU0C&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.7561E8,
+       "currencyCode": "ARS"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.2293E8,
+       "currencyCode": "ARS"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "AR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.ar/books/download/Black_Sabbath_and_Philosophy-sample-epub.acsm?id=Ek-yzX-jcU0C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.ar/books/download/Black_Sabbath_and_Philosophy-sample-pdf.acsm?id=Ek-yzX-jcU0C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Ek-yzX-jcU0C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "From Aristotle and Nietzsche to Schopenhauer and Marx, this book brings some of history&#39;s heaviest thinkers to bear on the band&#39;s music. So . . . can you help me, occupy my brain? Yes! Start reading Black Sabbath and Philosophy."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "XAu_CwAAQBAJ",
+   "etag": "vM/8A0UGas8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/XAu_CwAAQBAJ",
+   "volumeInfo": {
+    "title": "Black Sabbath: UK Vinyl Discography 1970-1980",
+    "authors": [
+     "Neil Priddey"
+    ],
+    "publisher": "Lulu.com",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781326589080"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1326589083"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=XAu_CwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=XAu_CwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.ar/books?id=XAu_CwAAQBAJ&printsec=frontcover&dq=black+sabbath&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.com.ar/books?id=XAu_CwAAQBAJ&dq=black+sabbath&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Black_Sabbath_UK_Vinyl_Discography_1970.html?hl=&id=XAu_CwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "AR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=XAu_CwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "zNzUelQRV98C",
+   "etag": "bGJ777YyamU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/zNzUelQRV98C",
+   "volumeInfo": {
+    "title": "Iron Man",
+    "subtitle": "My Journey Through Heaven and Hell with Black Sabbath",
+    "authors": [
+     "Tony Iommi"
+    ],
+    "publisher": "Simon and Schuster",
+    "publishedDate": "2012-11-08",
+    "description": "The name 'Tony Iommi' sends shivers down the spines of guitarists around the world. As lead guitarist and songwriter of Black Sabbath, Tony Iommi is considered to be one of the most influential musicians of the past four decades and the inventor of heavy metal. From working class, Midlands roots, his unique playing style - a result of a disfiguring hand injury he suffered working in a sheet metal factory - created a dark and gothic sound unlike anything that had been heard before and which captured the mood of its time. Sabbath went on to become a superband, playing to massive audiences around the world and selling millions of records, and Iommi led the life of a rockstar to the fullest - with the scars from all the drug-fuelled nights of excess and wildness to show for it. Iron Manis the exclusive account of the life and adventures of one of rock's greatest heroes.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781471112430"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1471112438"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 400,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 5,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.5.5.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=zNzUelQRV98C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=zNzUelQRV98C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.ar/books?id=zNzUelQRV98C&printsec=frontcover&dq=black+sabbath&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.com.ar/books?id=zNzUelQRV98C&dq=black+sabbath&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Iron_Man.html?hl=&id=zNzUelQRV98C"
+   },
+   "saleInfo": {
+    "country": "AR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.ar/books/download/Iron_Man-sample-epub.acsm?id=zNzUelQRV98C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=zNzUelQRV98C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "The name &#39;Tony Iommi&#39; sends shivers down the spines of guitarists around the world."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "JEXhxPrdWS4C",
+   "etag": "npWO3hnOxy8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/JEXhxPrdWS4C",
+   "volumeInfo": {
+    "title": "Black Sabbath FAQ",
+    "subtitle": "All That's Left to Know on the First Name in Metal",
+    "authors": [
+     "Martin Popoff"
+    ],
+    "publisher": "Backbeat Books",
+    "publishedDate": "2011-05-01",
+    "description": "(Book). Unlike any Sabbath book thus far, Black Sabbath FAQ digs deep into quirks, obscure anecdotes, and burning questions surrounding the Sabs. In a fast-moving, topical format, this book covers a tremendous amount of information, delectable to any Sabbath fan, but hard to find in a traditional biography. This rich history lives and breathes and shouts right here. And the voice behind it could not be stronger: Martin Popoff is a heavy metal expert who has authored over 30 books on the subject, including Doom Let Loose , which is widely considered the definitive biography of the band. In Black Sabbath FAQ , Popoff is like a rabid detective unearthing (and sometimes debunking) ancient lore, valiantly covering new ground, applying academic rigor, but then wildly sounding off with lurid opinion. The pendulum swings, and, though disoriented, the serious Sabbath studier is better for it come the book's doomy conclusion. Dozens of images of rare memorabilia make this book a must-have for fans.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781617131097"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1617131091"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 400,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.2.3.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=JEXhxPrdWS4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=JEXhxPrdWS4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.ar/books?id=JEXhxPrdWS4C&printsec=frontcover&dq=black+sabbath&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=JEXhxPrdWS4C&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-JEXhxPrdWS4C"
+   },
+   "saleInfo": {
+    "country": "AR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 119.36,
+     "currencyCode": "ARS"
+    },
+    "retailPrice": {
+     "amount": 81.16,
+     "currencyCode": "ARS"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=JEXhxPrdWS4C&rdid=book-JEXhxPrdWS4C&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.1936E8,
+       "currencyCode": "ARS"
+      },
+      "retailPrice": {
+       "amountInMicros": 8.116E7,
+       "currencyCode": "ARS"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "AR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.ar/books/download/Black_Sabbath_FAQ-sample-epub.acsm?id=JEXhxPrdWS4C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.ar/books/download/Black_Sabbath_FAQ-sample-pdf.acsm?id=JEXhxPrdWS4C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=JEXhxPrdWS4C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "The pendulum swings, and, though disoriented, the serious Sabbath studier is better for it come the book&#39;s doomy conclusion. Dozens of images of rare memorabilia make this book a must-have for fans."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "h5GkcQAACAAJ",
+   "etag": "hw8LdjTpOoQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/h5GkcQAACAAJ",
+   "volumeInfo": {
+    "title": "Black Sabbath : cuatro décadas entre el cielo y el infierno (1969-2009)",
+    "authors": [
+     "Miguel Asturias"
+    ],
+    "publishedDate": "2009-02",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8493670715"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788493670719"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 400,
+    "printType": "BOOK",
+    "categories": [
+     "Music"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=h5GkcQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=h5GkcQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "es",
+    "previewLink": "http://books.google.com.ar/books?id=h5GkcQAACAAJ&dq=black+sabbath&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.com.ar/books?id=h5GkcQAACAAJ&dq=black+sabbath&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Black_Sabbath_cuatro_d%C3%A9cadas_entre_el_c.html?hl=&id=h5GkcQAACAAJ"
+   },
+   "saleInfo": {
+    "country": "AR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=h5GkcQAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Cm4Bh8ZIwvsC",
+   "etag": "G45N8KJepxw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Cm4Bh8ZIwvsC",
+   "volumeInfo": {
+    "title": "Rat Salad",
+    "subtitle": "Black Sabbath: The Classic Years 1969-1975",
+    "authors": [
+     "Paul Wilkinson"
+    ],
+    "publisher": "Random House",
+    "publishedDate": "2010-11-30",
+    "description": "Black Sabbath are one of the most outrageous yet longest-lived bands in the history of rock 'n' roll. This informative, idiosyncratic and beguiling book paints a vivid picture of their colourful early history - interwoven with all the most crucial news stories of the time: from Vietnam to Bloody Sunday and the space programme. Where Rat Salad diverges from routes taken by most rock biographies, however, is in its detailed analysis of the band's first six albums. These chapters - think Ian MacDonald's Revolution in the Head meets Spinal Tap - occupy about half the book and persuasively explain the appeal of the music, its compositional artistry and its frequently audacious inventiveness. Original and passionate, Rat Salad embraces a remarkably diverse cast of characters - from Ozzy Osbourne himself and the other members of the band through to Edith Sitwell, Breugel the Elder, John Milton and Doris Day. The author's hand looms large in the piece. We see him both as a boy and man - from schoolboy ingenue to inveterate devotee - as he looks back at a life populated with love, sex, drugs and death played out against a backdrop of crucifixes and power chords.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781446402771"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1446402770"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 256,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "3.3.2.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Cm4Bh8ZIwvsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Cm4Bh8ZIwvsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.ar/books?id=Cm4Bh8ZIwvsC&printsec=frontcover&dq=black+sabbath&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=Cm4Bh8ZIwvsC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-Cm4Bh8ZIwvsC"
+   },
+   "saleInfo": {
+    "country": "AR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 235.06,
+     "currencyCode": "ARS"
+    },
+    "retailPrice": {
+     "amount": 164.54,
+     "currencyCode": "ARS"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=Cm4Bh8ZIwvsC&rdid=book-Cm4Bh8ZIwvsC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.3506E8,
+       "currencyCode": "ARS"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.6454E8,
+       "currencyCode": "ARS"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "AR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.ar/books/download/Rat_Salad-sample-epub.acsm?id=Cm4Bh8ZIwvsC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Cm4Bh8ZIwvsC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "These chapters - think Ian MacDonald&#39;s Revolution in the Head meets Spinal Tap - occupy about half the book and persuasively explain the appeal of the music, its compositional artistry and its frequently audacious inventiveness."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "E4j2nCRCARYC",
+   "etag": "QmauQ1zMoa0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/E4j2nCRCARYC",
+   "volumeInfo": {
+    "title": "Into the Void: Ozzy Osbourne and Black Sabbath",
+    "authors": [
+     "Barney Hoskyns"
+    ],
+    "publisher": "Omnibus Press",
+    "publishedDate": "2009-12-15",
+    "description": "Compiled by Rock's Backpages, here is the ultimate collection of interviews, profiles and reviews concerning the weird and wonderful career of Ozzy Osbourne! From Black Sabbath through the annual Ozzfest tour to the MTV Phenomenon 'The Osbournes', Ozzy has always attracted attention. Among the world-class commentators writing about him here are Mike Saunders, Glenn O'Brien, Simon Reynolds, John Walsh, Chris Welch and David Dalton. These are the best pieces ever written about Ozzy and Sabbath, and now for the first time they are all in one book: a glorious Ozzfest of conversation, analysis and criticism focusing on Birmingham's great Gothic Rock hero.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780857121066"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0857121065"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 248,
+    "printType": "BOOK",
+    "categories": [
+     "Music"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.6.6.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=E4j2nCRCARYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=E4j2nCRCARYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.ar/books?id=E4j2nCRCARYC&printsec=frontcover&dq=black+sabbath&hl=&cd=8&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=E4j2nCRCARYC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-E4j2nCRCARYC"
+   },
+   "saleInfo": {
+    "country": "AR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 133.53,
+     "currencyCode": "ARS"
+    },
+    "retailPrice": {
+     "amount": 90.8,
+     "currencyCode": "ARS"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=E4j2nCRCARYC&rdid=book-E4j2nCRCARYC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.3353E8,
+       "currencyCode": "ARS"
+      },
+      "retailPrice": {
+       "amountInMicros": 9.08E7,
+       "currencyCode": "ARS"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "AR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.ar/books/download/Into_the_Void_Ozzy_Osbourne_and_Black_Sa-sample-epub.acsm?id=E4j2nCRCARYC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.ar/books/download/Into_the_Void_Ozzy_Osbourne_and_Black_Sa-sample-pdf.acsm?id=E4j2nCRCARYC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=E4j2nCRCARYC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "These are the best pieces ever written about Ozzy and Sabbath, and now for the first time they are all in one book: a glorious Ozzfest of conversation, analysis and criticism focusing on Birmingham&#39;s great Gothic Rock hero."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "EqltAAAAMAAJ",
+   "etag": "RfsqQy7i8w8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/EqltAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Black Sabbath; a journey through a crime against humanity",
+    "authors": [
+     "Robert Katz"
+    ],
+    "publishedDate": "1969",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015010816349"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 398,
+    "printType": "BOOK",
+    "categories": [
+     "Holocaust, Jewish (1939-1945)"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=EqltAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=EqltAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.ar/books?id=EqltAAAAMAAJ&q=black+sabbath&dq=black+sabbath&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com.ar/books?id=EqltAAAAMAAJ&dq=black+sabbath&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Black_Sabbath_a_journey_through_a_crime.html?hl=&id=EqltAAAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "AR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=EqltAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "3j1IEt0XPfoC",
+   "etag": "XQFqvNK3MjY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/3j1IEt0XPfoC",
+   "volumeInfo": {
+    "title": "Black Sabbath",
+    "subtitle": "Pioneers of Heavy Metal",
+    "authors": [
+     "Brian Aberback"
+    ],
+    "publisher": "Enslow Publishers, Inc.",
+    "publishedDate": "2010-09-01",
+    "description": "\"A biography of British heavy metal band Black Sabbath\"--Provided by publisher.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1598452126"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781598452129"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 112,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.4.1.0.preview.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=3j1IEt0XPfoC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=3j1IEt0XPfoC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.ar/books?id=3j1IEt0XPfoC&dq=black+sabbath&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com.ar/books?id=3j1IEt0XPfoC&dq=black+sabbath&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Black_Sabbath.html?hl=&id=3j1IEt0XPfoC"
+   },
+   "saleInfo": {
+    "country": "AR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=3j1IEt0XPfoC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "&quot;A biography of British heavy metal band Black Sabbath&quot;--Provided by publisher."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "AJAGDAAAQBAJ",
+   "etag": "2VECh9wPqzE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/AJAGDAAAQBAJ",
+   "volumeInfo": {
+    "title": "Black Sabbath and the Rise of Heavy Metal Music",
+    "authors": [
+     "Andrew L. Cope"
+    ],
+    "publisher": "Routledge",
+    "publishedDate": "2016-04-15",
+    "description": "The definition of 'heavy metal' is often a contentious issue and in this lively and accessible text Andrew Cope presents a refreshing re-evaluation of the rules that define heavy metal as a musical genre. Cope begins with an interrogation of why, during the late 1960s and early 1970s, Birmingham provided the ideal location for the evolution and early development of heavy metal and hard rock. The author considers how the influence of the London and Liverpool music scenes merged with the unique cultural climate, industry and often desolated sites of post-war Birmingham to contribute significantly to the development of two unique forms of music: heavy metal and hard rock. The author explores these two forms through an extensive examination of key tracks from the first six albums of both Black Sabbath and Led Zeppelin, in which musical, visual and lyrical aspects of each band are carefully compared and contrasted in order to highlight the distinctive innovations of those early recordings. In conclusion, a number of case studies are presented that illustrate how the unique synthesis of elements established by Black Sabbath have been perpetuated and developed through the work of such bands as Iron Maiden, Metallica, Pantera, Machine Head, Nightwish, Arch Enemy and Cradle of Filth. As a consequence, the importance of heavy metal as a genre of music was firmly established, and its longevity assured.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781317173861"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1317173864"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 186,
+    "printType": "BOOK",
+    "categories": [
+     "Music"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=AJAGDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=AJAGDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.ar/books?id=AJAGDAAAQBAJ&printsec=frontcover&dq=black+sabbath&hl=&cd=11&source=gbs_api",
+    "infoLink": "http://books.google.com.ar/books?id=AJAGDAAAQBAJ&dq=black+sabbath&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Black_Sabbath_and_the_Rise_of_Heavy_Meta.html?hl=&id=AJAGDAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "AR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=AJAGDAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "In conclusion, a number of case studies are presented that illustrate how the unique synthesis of elements established by Black Sabbath have been perpetuated and developed through the work of such bands as Iron Maiden, Metallica, Pantera, ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "6w4eDQAAQBAJ",
+   "etag": "c+y7MrQ5Ouo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/6w4eDQAAQBAJ",
+   "volumeInfo": {
+    "title": "The Complete History of Black Sabbath",
+    "subtitle": "What Evil Lurks",
+    "authors": [
+     "Joel Mciver"
+    ],
+    "publishedDate": "2016-10-15",
+    "description": "They are the band that created metal music . . . and they have defined it for more than four decades. Black Sabbath's career spans eleven different line-ups and nineteen studio albums in addition to the twenty-eight solo albums of the original four members. The band began in 1968 as a blues rock band on the cover circuit of Birmingham, England. Clawing their way up from the postwar bombed-out suburbs of Birmingham, the four membersâ??guitarist and main songwriter Tony Iommi, bassist and main lyricist Geezer Butler, singer Ozzy Osbourne, and drummer Bill Wardâ??would define a new genre of music and make themselves world famous. Joel McIver explores the complete history of Sabbath, from the precursor bands to the release of the holy trinity of heavy metal - \"Black Sabbath\" (the song) on Black Sabbath (the album) by Black Sabbath (the band) - to the present. With over 150 photos, a gatefold family tree tracing the development of the band, a complete discography, and a foreword by Machine Head frontman Robb Flynn, this is the must-have book for any Sabbath fan.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781631062728"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1631062727"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=6w4eDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=6w4eDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.ar/books?id=6w4eDQAAQBAJ&printsec=frontcover&dq=black+sabbath&hl=&cd=12&source=gbs_api",
+    "infoLink": "http://books.google.com.ar/books?id=6w4eDQAAQBAJ&dq=black+sabbath&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Complete_History_of_Black_Sabbath.html?hl=&id=6w4eDQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "AR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=6w4eDQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "With over 150 photos, a gatefold family tree tracing the development of the band, a complete discography, and a foreword by Machine Head frontman Robb Flynn, this is the must-have book for any Sabbath fan."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "RQk9BAAAQBAJ",
+   "etag": "OBoHmcIh9t4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/RQk9BAAAQBAJ",
+   "volumeInfo": {
+    "title": "Sabbath Bloody Sabbath",
+    "subtitle": "",
+    "authors": [
+     "Joel McIver"
+    ],
+    "publisher": "Omnibus Press",
+    "publishedDate": "2014-08-11",
+    "description": "Joel McIver's acclaimed Black Sabbath biography, Sabbath Bloody Sabbath, concluded in 2011 that its subjects were at a crossroads. Could Ozzy, Tony, Geezer and Bill manage after over 40 years in business to get back together one more time? After all, the veteran heavy metal musicians were grieving for their fallen comrade Ronnie James Dio and about to face a devastating medical diagnosis for one of their own. McIver's brand-new, updated volume brings the story up to date with the tale of Sabbath's near-miraculous return to form with the Rick Rubin-produced 13 album, which topped charts worldwide on its release in 2013. In true Sabbath style, however, nothing went entirely to plan, with internal arguments, last-minute band-member replacements -- and a genuine fear that this may be Sabbath's very last shot at glory.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781783231270"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1783231270"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 456,
+    "printType": "BOOK",
+    "categories": [
+     "Music"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.5.4.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=RQk9BAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=RQk9BAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.ar/books?id=RQk9BAAAQBAJ&pg=PT340&dq=black+sabbath&hl=&cd=13&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=RQk9BAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-RQk9BAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "AR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 173.62,
+     "currencyCode": "ARS"
+    },
+    "retailPrice": {
+     "amount": 121.53,
+     "currencyCode": "ARS"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=RQk9BAAAQBAJ&rdid=book-RQk9BAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.7362E8,
+       "currencyCode": "ARS"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.2153E8,
+       "currencyCode": "ARS"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "AR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.ar/books/download/Sabbath_Bloody_Sabbath-sample-epub.acsm?id=RQk9BAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.ar/books/download/Sabbath_Bloody_Sabbath-sample-pdf.acsm?id=RQk9BAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=RQk9BAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "But if you want to see \u003cb\u003eBlack Sabbath\u003c/b\u003e, you&#39;ve got to be prepared to listen to the \u003cbr\u003e\nwhole history of the band and not just part of it.” It also seemed at last that IRS \u003cbr\u003e\nwas giving Sabbath the support they needed. Martin: “It&#39;s really good because we\u003cbr\u003e\n&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ug9zPgAACAAJ",
+   "etag": "uFhFv1Ku1Mk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ug9zPgAACAAJ",
+   "volumeInfo": {
+    "title": "Black Sabbath Best of Guitar Tab Edition",
+    "authors": [
+     "Black Sabbath",
+     "Music Sales Corporation",
+     "Tony Iommi",
+     "Ozzy Osbourne",
+     "Bill Ward",
+     "Geezer Butler"
+    ],
+    "publishedDate": "1996",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0711949565"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780711949560"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 31,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com.ar/books?id=ug9zPgAACAAJ&dq=black+sabbath&hl=&cd=14&source=gbs_api",
+    "infoLink": "http://books.google.com.ar/books?id=ug9zPgAACAAJ&dq=black+sabbath&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Black_Sabbath_Best_of_Guitar_Tab_Edition.html?hl=&id=ug9zPgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "AR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ug9zPgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "_eLYoAEACAAJ",
+   "etag": "Imab7aTfQ40",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/_eLYoAEACAAJ",
+   "volumeInfo": {
+    "title": "Black Sabbath",
+    "authors": [
+     "Sabbath Black"
+    ],
+    "publisher": "Richmond Organization",
+    "publishedDate": "2013",
+    "description": "\"Play 7 songs with tab and sound-alike CD tracks.\"",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "142348245X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781423482451"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 54,
+    "printType": "BOOK",
+    "categories": [
+     "Music"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=_eLYoAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=_eLYoAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.ar/books?id=_eLYoAEACAAJ&dq=black+sabbath&hl=&cd=15&source=gbs_api",
+    "infoLink": "http://books.google.com.ar/books?id=_eLYoAEACAAJ&dq=black+sabbath&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Black_Sabbath.html?hl=&id=_eLYoAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "AR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=_eLYoAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Drum Set Music - Mixed Levels"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "8F65gkvsOy8C",
+   "etag": "4HIO7SeMDK0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/8F65gkvsOy8C",
+   "volumeInfo": {
+    "title": "Black Sabbath",
+    "publisher": "PediaPress",
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=8F65gkvsOy8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=8F65gkvsOy8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.ar/books?id=8F65gkvsOy8C&pg=PA104&dq=black+sabbath&hl=&cd=16&source=gbs_api",
+    "infoLink": "http://books.google.com.ar/books?id=8F65gkvsOy8C&dq=black+sabbath&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Black_Sabbath.html?hl=&id=8F65gkvsOy8C"
+   },
+   "saleInfo": {
+    "country": "AR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=8F65gkvsOy8C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "1970s • \u003cb\u003eBlack Sabbath\u003c/b\u003e - \u003cb\u003eBlack Sabbath\u003c/b\u003e • \u003cb\u003eBlack Sabbath\u003c/b\u003e - Paranoid • \u003cb\u003eBlack\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003eSabbath\u003c/b\u003e - Master of Reality • \u003cb\u003eBlack Sabbath\u003c/b\u003e - \u003cb\u003eBlack Sabbath\u003c/b\u003e, Vol. 4 • \u003cb\u003eBlack\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003eSabbath\u003c/b\u003e - Sabbath Bloody Sabbath • \u003cb\u003eBlack Sabbath\u003c/b\u003e - Sabotage • \u003cb\u003eBlack Sabbath\u003c/b\u003e - \u003cbr\u003e\nWe Sold&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "4Wl4oAEACAAJ",
+   "etag": "yKrgaMPsPPo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/4Wl4oAEACAAJ",
+   "volumeInfo": {
+    "title": "Black Sabbath",
+    "subtitle": "The Vault",
+    "authors": [
+     "Paul Elliott"
+    ],
+    "publisher": "Carlton Books Limited",
+    "publishedDate": "2015-06-01",
+    "description": "Fronted by irrepressible, idiosyncratic, and frequently death-defying singer Ozzy Osbourne, Black Sabbath began its bumpy road to fame with a sound that rocked harder, deeper, and “uglier” than anybody else's. Albums likeBlack Sabbath and Paranoid warped the sensibilities of several generations and are regarded as two of the finest rock records ever made. The years since their ascent have seen fights and reconciliations, crazy excess and bouts of self-destruction, but their popularity remains as vast and durable as their mythological status. Written by a leading music journalist and illustrated throughout with rare and previously unpublished photographs,Black Sabbath: The Vault is the ultimate interactive celebration of the iconic head-banging metal group. Twenty items of rare, removable facsimile memorabilia, including posters, tickets, flyers, and photographs, give the reader a front-row seat (and a backstage pass) to the career of these true legends of rock.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1780975589"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781780975580"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 64,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=4Wl4oAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=4Wl4oAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.ar/books?id=4Wl4oAEACAAJ&dq=black+sabbath&hl=&cd=17&source=gbs_api",
+    "infoLink": "http://books.google.com.ar/books?id=4Wl4oAEACAAJ&dq=black+sabbath&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Black_Sabbath.html?hl=&id=4Wl4oAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "AR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=4Wl4oAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Fronted by irrepressible, idiosyncratic, and frequently death-defying singer Ozzy Osbourne, Black Sabbath began its bumpy road to fame with a sound that rocked harder, deeper, and “uglier” than anybody else&#39;s."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "bDBZBQAAQBAJ",
+   "etag": "nXZhqrdVjMw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/bDBZBQAAQBAJ",
+   "volumeInfo": {
+    "title": "Black Sabbath: the unauthorized biography",
+    "subtitle": "",
+    "authors": [
+     "Universo dos Livros"
+    ],
+    "publisher": "Universo dos Livros Editora",
+    "description": "With over forty years of history, Black Sabbath revolutionized the history of rock giving the initial impetus for creation and propagation of heavy metal. In four decades of success, the band led by Tony Iommi has its recognition with classics in the world of metal, such as “Sabbath Bloody Sabbath “and” Paranoid “. The Sabbath had several members, but it was in the voice and figure of the eccentric Ozzy Osbourne that the group gained weight in music scene. In this unauthorized biography, the reader will know the whole history of the band that colored rock with more obscure shades and lyrics that speak without fear of the world’s darkness. Also brings the complete discography, trivia and amazing pictures.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788579308062"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8579308062"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=bDBZBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=bDBZBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.ar/books?id=bDBZBQAAQBAJ&pg=PT113&dq=black+sabbath&hl=&cd=18&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=bDBZBQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-bDBZBQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "AR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 27.16,
+     "currencyCode": "ARS"
+    },
+    "retailPrice": {
+     "amount": 22.54,
+     "currencyCode": "ARS"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=bDBZBQAAQBAJ&rdid=book-bDBZBQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.716E7,
+       "currencyCode": "ARS"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.254E7,
+       "currencyCode": "ARS"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "AR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.ar/books/download/Black_Sabbath_the_unauthorized_biography-sample-epub.acsm?id=bDBZBQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.ar/books/download/Black_Sabbath_the_unauthorized_biography-sample-pdf.acsm?id=bDBZBQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=bDBZBQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Iron Man: My Journey through Heaven and Hell with \u003cb\u003eBlack Sabbath\u003c/b\u003e. DaCapo \u003cbr\u003e\nPress, 2011. LAMMERS, T. J.; IOMMI, Tony. Iron Man: Minha jornada com o \u003cbr\u003e\n\u003cb\u003eBlack Sabbath\u003c/b\u003e. Planeta do Brasil, 2013. MCIVER, Joel. Sabbath Bloody Sabbath."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "zZMSAQAAQBAJ",
+   "etag": "Ww01tVuJtcM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/zZMSAQAAQBAJ",
+   "volumeInfo": {
+    "title": "Black Sabbath Songbook",
+    "subtitle": "Bass Play-Along",
+    "authors": [
+     "Black Sabbath"
+    ],
+    "publisher": "Hal Leonard",
+    "publishedDate": "2009-12-01",
+    "description": "(Bass Play-Along). The Bass Play-Along series will help you play your favorite songs quickly and easily! Just follow the tab, listen to the audio to hear how the bass should sound, and then play along using the separate backing tracks. The melody and lyrics are included in case you want to sing, or to simply help you follow along. This edition includes: Children of the Grave * Iron Man * N.I.B. * Paranoid * Sabbath, Bloody Sabbath * Sweet Leaf * War Pigs (Interpolating Luke's Wall).",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781476887425"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "147688742X"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 56,
+    "printType": "BOOK",
+    "categories": [
+     "Music"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=zZMSAQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=zZMSAQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.ar/books?id=zZMSAQAAQBAJ&pg=PA1&dq=black+sabbath&hl=&cd=19&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=zZMSAQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-zZMSAQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "AR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 101.44,
+     "currencyCode": "ARS"
+    },
+    "retailPrice": {
+     "amount": 68.98,
+     "currencyCode": "ARS"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=zZMSAQAAQBAJ&rdid=book-zZMSAQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.0144E8,
+       "currencyCode": "ARS"
+      },
+      "retailPrice": {
+       "amountInMicros": 6.898E7,
+       "currencyCode": "ARS"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "AR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.ar/books/download/Black_Sabbath_Songbook-sample-epub.acsm?id=zZMSAQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.ar/books/download/Black_Sabbath_Songbook-sample-pdf.acsm?id=zZMSAQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=zZMSAQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Bass Play-Along \u003cb\u003eBlack Sabbath\u003c/b\u003e. HalHlmc fn&#39;l (-&#39;a &quot; ;) &#39;FJII! hulHlmc fed as B 06 d5 \u003cbr\u003e\n05 frur UQLNTQDIDEWQ&#39;“ &#39; 1. I. .0. ,l59091.&quot;1.&quot; &#39;21:] u6) Coda Guitar Solo NCAES\u003cbr\u003e\n) 9&quot;&#39;uwuwiuwuwi i 1 1:?! T1 1 ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "IpNMAgAAQBAJ",
+   "etag": "ACus3xfzHr4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/IpNMAgAAQBAJ",
+   "volumeInfo": {
+    "title": "Best of Black Sabbath (Songbook)",
+    "authors": [
+     "Black Sabbath"
+    ],
+    "publisher": "Hal Leonard Corporation",
+    "publishedDate": "2007-12-01",
+    "description": "(Guitar Recorded Versions). 16 songs transcribed note for note with tablature: Black Sabbath * Children of the Sea * Heaven and Hell * Hole in the Sky * Into the Void * Iron Man * The Mob Rules * Neon Knights * N.I.B. * Paranoid * Sabbath, Bloody Sabbath * Supernaut * Sweet Leaf * Symptom of the Universe * Voodoo * War Pigs (Interpolating Luke's Wall).",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781458464408"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1458464407"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 128,
+    "printType": "BOOK",
+    "categories": [
+     "Music"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "2.1.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=IpNMAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=IpNMAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.ar/books?id=IpNMAgAAQBAJ&pg=PT3&dq=black+sabbath&hl=&cd=20&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=IpNMAgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-IpNMAgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "AR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 119.12,
+     "currencyCode": "ARS"
+    },
+    "retailPrice": {
+     "amount": 81.0,
+     "currencyCode": "ARS"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=IpNMAgAAQBAJ&rdid=book-IpNMAgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.1912E8,
+       "currencyCode": "ARS"
+      },
+      "retailPrice": {
+       "amountInMicros": 8.1E7,
+       "currencyCode": "ARS"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "AR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.ar/books/download/Best_of_Black_Sabbath_Songbook-sample-epub.acsm?id=IpNMAgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.ar/books/download/Best_of_Black_Sabbath_Songbook-sample-pdf.acsm?id=IpNMAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=IpNMAgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "\u003cb\u003eBlack Sabbath\u003c/b\u003e. from \u003cb\u003eBlack Sabbath\u003c/b\u003e B l a c k S a b b a t h Words and Music by \u003cbr\u003e\nFrank Iommi, John Osbourne, William Ward and Terence Butler ..-ЦЬ&#39;:.-.-&#39;.-`] &quot;Мн-г \u003cbr\u003e\n&#39;DI&#39;. l.&#39;l|l ПДП-НИШ:Iii||| &#39; ï “дн—Ё гл. -. \u003cb\u003eBlack Sabbath\u003c/b\u003e."
+   }
+  }
+ ]
+}

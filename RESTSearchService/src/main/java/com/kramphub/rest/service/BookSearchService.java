@@ -1,5 +1,7 @@
 package com.kramphub.rest.service;
 
+import java.io.UnsupportedEncodingException;
+import java.net.URLEncoder;
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.Iterator;
@@ -67,7 +69,11 @@ public class BookSearchService extends ProductSearchService {
 	public String buildUrlWithParams(String query) {
 		StringBuilder strBuild = new StringBuilder(this.serviceUrl);
 		strBuild.append("?q=");
-		strBuild.append(query);
+		try {
+			strBuild.append(URLEncoder.encode(query, "UTF-8"));
+		} catch (UnsupportedEncodingException e) {
+			logger.error("Error encoding query search param",e);
+		}
 		strBuild.append("&maxResults=");
 		strBuild.append(this.maxResults);
 		String urlParams = strBuild.toString();
