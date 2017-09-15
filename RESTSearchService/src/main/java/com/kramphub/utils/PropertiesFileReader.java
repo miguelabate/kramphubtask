@@ -64,9 +64,6 @@ public class PropertiesFileReader {
 			// load a properties file
 			prop.load(input);
 
-			// get the property value and print it out
-//			System.out.println(prop.getProperty("maxResults.prod"));
-
 		} catch (IOException ex) {
 			ex.printStackTrace();
 		} finally {

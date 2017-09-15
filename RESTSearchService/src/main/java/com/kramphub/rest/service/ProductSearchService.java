@@ -11,24 +11,24 @@ import com.kramphub.rest.client.JerseyClientGet;
 import com.kramphub.rest.model.Product;
 
 /**
- * Abstract class for product searches. Implementing strategy pattern.
+ * Abstract class for product searches. Implementing template method pattern.
+ * 
  * @author miguel
  *
  */
 public abstract class ProductSearchService {
 
 	final static Logger logger = Logger.getLogger(ProductSearchService.class);
-	
+
 	protected String serviceUrl;
 	protected Integer maxResults;
-	
+
 	public ProductSearchService(String serviceUrl, Integer maxResults) {
-		this.serviceUrl=serviceUrl;
-		this.maxResults=maxResults;
+		this.serviceUrl = serviceUrl;
+		this.maxResults = maxResults;
 	}
 
-	public ArrayList<Product> search(String query){
-		logger.info("Doing request to "+serviceUrl);
+	public ArrayList<Product> search(String query) {
 		ArrayList<Product> result = new ArrayList<Product>();
 		JerseyClientGet client = new JerseyClientGet();
 		String urlWithParams = buildUrlWithParams(query);
@@ -36,15 +36,15 @@ public abstract class ProductSearchService {
 		try {
 			jsonNodeProducts = client.doGet(urlWithParams);
 		} catch (IOException e) {
-			logger.error("Exception requesting url "+urlWithParams, e);
+			logger.error("Exception requesting url " + urlWithParams, e);
 		}
-		
+
 		result.addAll(mapResultJsonNodeToProduct(jsonNodeProducts));
-		
+
 		return result;
 	}
 
 	public abstract Collection<Product> mapResultJsonNodeToProduct(JsonNode jsonNodeProducts);
 
-	public abstract String buildUrlWithParams(String query) ;
+	public abstract String buildUrlWithParams(String query);
 }
