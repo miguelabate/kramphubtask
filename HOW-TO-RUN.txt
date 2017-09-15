@@ -1,0 +1,44 @@
+#REQUIREMENTS
+
++Java 1.8
++Maven 3.5.0 or greater
++Git
+
+#HOW TO RUN
+
++++clone the project form the git hub repository:
+
+git clone https://github.com/miguelabate/kramphubtask.git
+
++++change to the project directory
+
+cd kramphubtask
+cd RESTSearchService
+
++++compile
+
+mvn clean install
+
++++(optional) make it an eclipse project if you want to import it
+
+mvn eclipse:eclipse
+
++++Run it using Jetty servlet container
+
+mvn jetty:run -Denv=prod -DconfigFile=./config.properties
+
++++(optional) you can run it using a tomcat container making sure you pass the arguments in the MAVEN_OPTS variable
+
++++Do requests in your browser like this
+
+http://localhost:8080/RESTSearchService/rest/search/irish+folk
+
+###Some notes
+Under the directory ./logs you will find two files:
+log4j-application.log: contains general logs from the application
+metrics.log: a json like file containing metrics and health info of the upstream services.
+
+In the project directory you will find:
+config.properties: contains application parameters for each environment(timeout, service urls, max results)
+
+

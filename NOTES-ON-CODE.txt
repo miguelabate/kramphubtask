@@ -1,0 +1,34 @@
+#########About the project
+
+The technology chosen to make the service was the standard JAX-RS REST. In particular, I used the Jersey + Jackson implementation.
+For logging I used log4j and for testing JUnit.
+
+####How the search is implemented####
+
+The created endpoint, the Json responses from the downstream service as well as the ones from the upstream services are handled with Jersey + Jackson.
+
+To handle the resilience, stability, performance and response times of the service, I worked it out using Java 8 CompletableFutures.
+The inner workings of this mechanism can be seen in the class com.kramphub.rest.service.SearchService.
+
+The idea is to run each upstream service request asynchronously in a CompletableFuture. To each of this compleatable futures, another completable future that does the timeout is associated (see CompletableFuture.anyOf(..)) 
+
+Finally I collect the result from the Completable futures and return them.
+
+####Properties file####
+
+In order to be able to configure some parameters of the service depending on the environment, I used an external properties file passed to the service when it is run.
+
+mvn jetty:run -Denv=prod -DconfigFile=./config.properties
+
+In the example above I tell the service to use the given configFile and use the prod environment configs.
+
+The advantage of this approach is that I can change any value in the configFile during runtime without need of restarting the WS.
+In the configFile ou can set the max numbers of result to get from each upstream service, the timeout and the services urls.
+
+####Metrics and health check####
+
+I used log4j in order to log metrics and health info of the upstream services. Those can be found in: ./logs/metrics.log
+
+To measure the response times, I use the Google Guava StopWatch.
+
+
